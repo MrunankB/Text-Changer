@@ -1,2 +1,2 @@
 # Text-Changer
-Interchange texts of files without copy-paste
+Interchange texts of files without copy-paste. Enter essay1.txt as 1st file and essay2.txt as 2nd file to make it work...
